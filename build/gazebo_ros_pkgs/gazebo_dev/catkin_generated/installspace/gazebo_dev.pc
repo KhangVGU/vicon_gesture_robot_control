@@ -1,0 +1,8 @@
+prefix=/home/khang/youbot_ws/install
+
+Name: gazebo_dev
+Description: Description of gazebo_dev
+Version: 2.5.21
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

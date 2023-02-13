@@ -1,0 +1,2 @@
+gazebo_ros_pkgs/gazebo_dev:gazebo_ros_pkgs/gazebo_msgs:gazebo_ros_pkgs/gazebo_plugins:gazebo_ros_pkgs/gazebo_ros:gazebo_ros_pkgs/gazebo_ros_control:gazebo_ros_pkgs/gazebo_ros_pkgs:vicon_bridge:youbot_description:youbot_simulation/youbot_gazebo_control:youbot_simulation/youbot_gazebo_robot:youbot_simulation/youbot_gazebo_worlds:youbot_simulation/youbot_simulation:youbot_vicon_control
+-DCATKIN_DEVEL_PREFIX=/home/khang/youbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/khang/youbot_ws/install -G Unix Makefiles

@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gazebo_msgs_generate_messages_lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/ContactState.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/ODEJointProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/SensorPerformanceMetric.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/WorldState.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/ODEPhysics.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/LinkState.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/LinkStates.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/ContactsState.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/ModelState.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/ModelStates.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/msg/PerformanceMetrics.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/SetJointProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/GetLightProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/ApplyBodyWrench.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/SetLightProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/DeleteModel.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/GetJointProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/SetLinkProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/ApplyJointEffort.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/GetPhysicsProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/GetModelProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/GetModelState.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/GetWorldProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/BodyRequest.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/DeleteLight.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/GetLinkState.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/SetPhysicsProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/SetLinkState.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/GetLinkProperties.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/SpawnModel.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/SetJointTrajectory.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/SetModelState.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/JointRequest.lisp"
+  "/home/khang/youbot_ws/devel/share/common-lisp/ros/gazebo_msgs/srv/SetModelConfiguration.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/gazebo_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,8 @@
+prefix=/home/khang/youbot_ws/install
+
+Name: youbot_vicon_control
+Description: Description of youbot_vicon_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
